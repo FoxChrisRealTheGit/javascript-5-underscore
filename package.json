@@ -1,0 +1,25 @@
+{
+  "name": "javascript-5-underscore",
+  "version": "1.0.0",
+  "description": "Edit the underscore.js file to do your work.",
+  "main": "underscore.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxChrisRealTheGit/javascript-5-underscore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxChrisRealTheGit/javascript-5-underscore/issues"
+  },
+  "homepage": "https://github.com/FoxChrisRealTheGit/javascript-5-underscore#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
